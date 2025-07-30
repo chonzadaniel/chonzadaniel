@@ -24,7 +24,8 @@ I'm a Data Scientist and Generative AI Practitioner passionate about building im
 - **Resume & Job Application Advisor** - An agentic system powered by CrewAI and open-source LLMs that helps job seekers improve their resumes, discover current job openings, generate tailored cover letters, and prepare for interviews — all in a single interactive Streamlit app.
 - **Racist Tweet Classifier** — NLP pipeline with SymSpell correction, oversampling, stratified cross-validation & Streamlit UI  
 - **Car Price Prediction** — Regression modeling using XGBoost and feature engineering on real marketplace data  
-- **RAG Toolkit** — Experimenting with OpenAI, BGE, and LlamaIndex to build smarter retrieval pipelines  
+- **RAG Toolkit** — Experimenting with OpenAI, BGE, and LlamaIndex to build smarter retrieval pipelines
+- **Image Classifier** - An End-to-End Image Classifier for 101 foodvision images capable of predicting the image label among the 101 foodvison image labels, e.g. sushi, pizza, etc. and a dog vision project in similar fashion using the 120 Stanford Dog breeds Image dataset
 
 ## 📫 How to reach me:
 📩 [LinkedIn](https://www.linkedin.com/in/emmanuel-daniel-chonza-b2a0b620/) • ✉️ chonzadaniel@gmail.com • 🌐 [GitHub Projects](https://github.com/chonzadaniel?tab=repositories)
