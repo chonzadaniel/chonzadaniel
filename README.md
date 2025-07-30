@@ -28,7 +28,7 @@ I'm a Data Scientist and Generative AI Practitioner passionate about building im
 - **Image Classifier** - An End-to-End Image Classifier for 101 foodvision images capable of predicting the image label among the 101 foodvison image labels, e.g. sushi, pizza, etc. and a dog vision project in similar fashion using the 120 Stanford Dog breeds Image dataset
 
 ## 📫 How to reach me:
-📩 [LinkedIn](https://www.linkedin.com/in/emmanuel-daniel-chonza-b2a0b620/) • ✉️ chonzadaniel@gmail.com • 🌐 [GitHub Projects](https://github.com/chonzadaniel?tab=repositories)
+📩 [LinkedIn](https://www.linkedin.com/in/emmanuel-daniel-chonza-b2a0b620/) • ✉️ chonzadaniel@yahoo.com • 🌐 [GitHub Projects](https://github.com/chonzadaniel?tab=repositories)
 
 ---
 
