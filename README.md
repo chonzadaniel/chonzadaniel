@@ -19,7 +19,7 @@ I'm a Data Scientist and Generative AI Practitioner passionate about building im
 - End-to-end MLOps/LLMOps pipelines
 - AI/ML research with community impact
 
-## 💡 Featured Projects:
+## 💡 Recent Featured Projects:
 - **Credit Card Fraud Detection Classifier** - This project develops a robust machine learning pipeline for credit card fraud detection, leveraging a highly imbalanced dataset. Detecting fraudulent transactions is crucial for financial institutions to minimize monetary losses and protect customer assets.
 - **Resume & Job Application Advisor** - An agentic system powered by CrewAI and open-source LLMs that helps job seekers improve their resumes, discover current job openings, generate tailored cover letters, and prepare for interviews — all in a single interactive Streamlit app.
 - **Racist Tweet Classifier** — NLP pipeline with SymSpell correction, oversampling, stratified cross-validation & Streamlit UI  
