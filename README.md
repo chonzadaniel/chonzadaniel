@@ -10,7 +10,7 @@ I'm a Data Scientist and Generative AI Practitioner passionate about building im
 - Machine learning training using MLflow
 
 ## 🌱 In the pipeline:
-- Parameter-Efficient Fine-Tuning (PEFT): QLoRA, LoRA, IA3
+- Parameter-Efficient Fine-Tuning (PEFT): QLoRA, LoRA, IA3 binary classification on product sentiment analysis.
 - Vector databases for context-aware search (e.g., FAISS, ChromaDB)
 - Building production-ready GenAI apps and dashboards
 
