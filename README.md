@@ -10,7 +10,6 @@ I'm a Data Scientist and Generative AI Practitioner passionate about building im
 - Machine learning training using MLflow
 
 ## 🌱 In the pipeline:
-- Parameter-Efficient Fine-Tuning (PEFT): QLoRA, LoRA, IA3 binary classification on product sentiment analysis.
 - Vector databases for context-aware search (e.g., FAISS, ChromaDB)
 - Building production-ready GenAI apps and dashboards
 
@@ -20,6 +19,7 @@ I'm a Data Scientist and Generative AI Practitioner passionate about building im
 - AI/ML research with community impact
 
 ## 💡 Recent Featured Projects:
+- **Parameter-Efficient Fine-Tuning (PEFT)** - QLoRA, LoRA, IA3 binary classification on product sentiment analysis.
 - **Credit Card Fraud Detection Classifier** - This project develops a robust machine learning pipeline for credit card fraud detection, leveraging a highly imbalanced dataset. Detecting fraudulent transactions is crucial for financial institutions to minimize monetary losses and protect customer assets.
 - **Resume & Job Application Advisor** - An agentic system powered by CrewAI and open-source LLMs that helps job seekers improve their resumes, discover current job openings, generate tailored cover letters, and prepare for interviews — all in a single interactive Streamlit app.
 - **Racist Tweet Classifier** — NLP pipeline with SymSpell correction, oversampling, stratified cross-validation & Streamlit UI  
