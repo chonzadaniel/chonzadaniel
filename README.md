@@ -19,11 +19,11 @@ I build end-to-end AI systems that make real-world impact—ranging from **LLM f
 
 ## 🔭 Current Work
 
-- 🔬 **Fine-tuning & evaluating LLMs** on domain-specific sentiment and intent classification
-- 🧱 **Implementing MLOps/LLMOps pipelines** for scalable experimentation
-- 📈 **Improving fairness** in ML models trained on imbalanced datasets
-- 🧠 **Prompt engineering** for grounded and hallucination-free AI output
-- 🎯 **Deploying AI apps** with powerful frontends using Streamlit + LangChain + LlamaIndex
+- 🔬 **Fine-tuning & evaluating LLMs** on domain-specific sentiment and intent classification.
+- 🧱 **Implementing MLOps/LLMOps pipelines** for scalable experimentation.
+- 📈 **Improving fairness** in ML models trained on imbalanced datasets.
+- 🧠 **Prompt engineering** for grounded and hallucination-free AI output.
+- 🎯 **Deploying AI apps** with powerful frontends using Streamlit + LangChain + LlamaIndex.
 
 ---
 
@@ -42,55 +42,54 @@ I build end-to-end AI systems that make real-world impact—ranging from **LLM f
 
 ### 💼 [**Resume & Job Application Advisor**]  
 > Agentic Streamlit App powered by **CrewAI** + **Open-source LLMs**. Guides users in:
-- Resume feedback
-- Tailored job openings
-- Cover letter generation
-- Interview Q&A
+- Resume feedback.
+- Tailored job openings.
+- Cover letter generation.
+- Interview Q&A.
 
 ---
 
 ### 💳 [**Credit Card Fraud Detector**]  
 > Robust ML pipeline for **highly imbalanced datasets**, including:
-- Stratified train/test splitting
-- Oversampling (SMOTE)
-- GridSearch + XGBoost
-- ROC-AUC, confusion matrix
+- Stratified train/test splitting.
+- Oversampling (SMOTE).
+- GridSearch + XGBoost.
+- ROC-AUC, confusion matrix.
 
 ---
 
 ### 🐦 [**Racist Tweet Classifier**]  
 > NLP workflow with:
-- SymSpell spell correction
-- Stratified cross-validation
-- Oversampling
-- Streamlit UI for public demo
+- SymSpell spell correction.
+- Stratified cross-validation.
+- Oversampling.
+- Streamlit UI for public demo.
 
 ---
 
 ### 🚗 [**Used Car Price Prediction**]  
-> Regression pipeline using **XGBoost**, **feature engineering**, and **marketplace data** (brand, model, mileage, engine size, etc.)
+> Regression pipeline using **XGBoost**, **feature engineering**, and **marketplace data** (brand, model, mileage, engine size, etc.).
 
 ---
 
 ### 🧪 [**Parameter Efficient Fine-Tuning (PEFT)**]  
-> Experiments with LoRA, QLoRA, IA3, and DPO on binary sentiment tasks using HuggingFace Transformers + bitsandbytes
+> Experiments with LoRA, QLoRA, IA3, and DPO on binary sentiment tasks using HuggingFace Transformers + bitsandbytes.
 
 ---
 
 ### 🖼️ [**FoodVision & DogVision**]  
 > Custom CNN and pretrained ResNet models trained on:
-- 🍣 **Food101** (sushi, pizza, steak...)
-- 🐕 **Stanford Dog Breeds** (with label mapping & confidence overlay)
+- 🍣 **Food101** (sushi, pizza, steak...).
+- 🐕 **Stanford Dog Breeds** (with label mapping & confidence overlay).
 
 ---
 
 ## 📦 Coming Soon
 
-- 💬 **Multi-turn chatbot** with memory + web search + RAG
-- 🧑‍💼 **Job Application Assistant v2** (LangGraph-powered)
+- 💬 **Multi-turn chatbot** with memory + web search + RAG.
+- 🧑‍💼 **Job Application Assistant v2** (LangGraph-powered).
 - 🛰️ **LLM inference microservices** (FastAPI + LangServe)
 - 🧬 **BGE-Large + Llama3 RAG** for scientific documents
-- 🎛️ **Dynamic dashboards** for Monitoring & Evaluation (M&E)
 
 ---
 
@@ -105,9 +104,10 @@ I build end-to-end AI systems that make real-world impact—ranging from **LLM f
 ## 🛠️ Tech Stack
 
 **Languages:** `Python`, `R`, `SQL`, `Markdown`  
-**Frameworks & Tools:** `PyTorch`, `scikit-learn`, `Transformers`, `Streamlit`, `MLflow`, `FastAPI`, `LangChain`, `LlamaIndex`, `ChromaDB`, `OpenAI`, `HuggingFace`, `Plotly`, `Matplotlib`, `seaborn`  
+**Algorithms:** `LLMs`, `ML`,  `NLP`
+**Frameworks & Tools:** `PyTorch`, `scikit-learn`, `Transformers`, `Streamlit`, `MLflow`, `FastAPI`, `LangChain`, `LlamaIndex`, `ChromaDB`, `OpenAI`, `HuggingFace`, `Plotly`, `Matplotlib`, `seaborn` , `crewai`, `crewai-tools`, `APIs`
 **MLOps:** `MLflow`, `wandb`, `Docker`, `Conda`, `Git`, `Jupyter`  
-**Deployment:** `Streamlit Cloud`, `Slack`, `Local API`, `Render`
+**Deployment:** `Huggingface Spaces`, `Streamlit Cloud`, `Slack`, `Local API`, `Render`
 
 ---
 
