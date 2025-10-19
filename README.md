@@ -104,10 +104,16 @@ I build end-to-end AI systems that make real-world impact—ranging from **LLM f
 ## 🛠️ Tech Stack
 
 **Languages:** `Python`, `R`, `SQL`, `Markdown`  
-**Algorithms:** `LLMs`, `ML`,  `NLP`
+
+**Algorithms:** `LLMs`, `ML`,  `NLP`, `Transformers/CNNs/ANN/RNNs/GANs`, `LSTMs`
+
 **Frameworks & Tools:** `PyTorch`, `scikit-learn`, `Transformers`, `Streamlit`, `MLflow`, `FastAPI`, `LangChain`, `LlamaIndex`, `ChromaDB`, `OpenAI`, `HuggingFace`, `Plotly`, `Matplotlib`, `seaborn` , `crewai`, `crewai-tools`, `APIs`
-**MLOps:** `MLflow`, `wandb`, `Docker`, `Conda`, `Git`, `Jupyter`  
+
+**MLOps:** `MLflow`, `wandb`, `Docker`, `Conda`, `Git`, `Kaggle`
+
 **Deployment:** `Huggingface Spaces`, `Streamlit Cloud`, `Slack`, `Local API`, `Render`
+
+**IDEs and Editors:** `Jupyter`, `Google Colab`, `PyCharm`, `Visual Studio Code`, `Kaggle`, `Sublime Text`, `Thonny`
 
 ---
 
