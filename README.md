@@ -4,7 +4,6 @@ I'm a Data Scientist and Generative AI Practitioner passionate about building im
 
 ## 🔭 Current work and Accomplishment:
 - Fine-tuning and evaluating LLMs for custom NLP tasks
-- Scaling RAG pipelines with `LlamaIndex` and semantic search
 - Improving ML model fairness in imbalanced text classification
 - Deploying real-time AI applications with Streamlit and Slack.
 - Machine learning training using MLflow
@@ -19,6 +18,8 @@ I'm a Data Scientist and Generative AI Practitioner passionate about building im
 - AI/ML research with community impact
 
 ## 💡 Recent Featured Projects:
+- A Multimodal RAG System with capabilities to retrieve different pdf contextual research papers from a locally persisted chromadb with a retrieval powered by `GPT-4o-min` LLM (openai).
+- **Dog Breed Identifier** - This is an app with Stanford 120 dog breeds identification capabilities, by displaying the class name again the uploaded image. The app is currently locally running on streamlit.
 - **Parameter-Efficient Fine-Tuning (PEFT)** - QLoRA, LoRA, IA3 binary classification on product sentiment analysis.
 - **Credit Card Fraud Detection Classifier** - This project develops a robust machine learning pipeline for credit card fraud detection, leveraging a highly imbalanced dataset. Detecting fraudulent transactions is crucial for financial institutions to minimize monetary losses and protect customer assets.
 - **Resume & Job Application Advisor** - An agentic system powered by CrewAI and open-source LLMs that helps job seekers improve their resumes, discover current job openings, generate tailored cover letters, and prepare for interviews — all in a single interactive Streamlit app.
