@@ -1,39 +1,118 @@
-# 👋 Hi, I'm Emmanuel Daniel Chonza
+# 👋 Hi there, I'm Emmanuel Daniel Chonza
 
-I'm a Data Scientist and Generative AI Practitioner passionate about building impactful solutions using NLP, Deep Learning, and Machine Learning. My work explores how AI can solve real-world problems—from sentiment analysis to Retrieval-Augmented Generation (RAG) systems.
+🚀 *Data Scientist | Generative AI Practitioner | LLM/RAG Engineer*
 
-## 🔭 Current work and Accomplishment:
-- Fine-tuning and evaluating LLMs for custom NLP tasks
-- Improving ML model fairness in imbalanced text classification
-- Deploying real-time AI applications with Streamlit and Slack.
-- Machine learning training using MLflow
-
-## 🌱 In the pipeline:
-- Vector databases for context-aware search (e.g., FAISS, ChromaDB)
-- Building production-ready GenAI apps and dashboards
-
-## 👯 I’m looking to collaborate on:
-- Applied NLP (especially underrepresented text domains), CV, ML, projects
-- End-to-end MLOps/LLMOps pipelines
-- AI/ML research with community impact
-
-## 💡 Recent Featured Projects:
-- A Multimodal RAG System with capabilities to retrieve different pdf contextual research papers from a locally persisted chromadb with a retrieval powered by `GPT-4o-min` LLM (openai).
-- **Dog Breed Identifier** - This is an app with Stanford 120 dog breeds identification capabilities, by displaying the class name again the uploaded image. The app is currently locally running on streamlit.
-- **Parameter-Efficient Fine-Tuning (PEFT)** - QLoRA, LoRA, IA3 binary classification on product sentiment analysis.
-- **Credit Card Fraud Detection Classifier** - This project develops a robust machine learning pipeline for credit card fraud detection, leveraging a highly imbalanced dataset. Detecting fraudulent transactions is crucial for financial institutions to minimize monetary losses and protect customer assets.
-- **Resume & Job Application Advisor** - An agentic system powered by CrewAI and open-source LLMs that helps job seekers improve their resumes, discover current job openings, generate tailored cover letters, and prepare for interviews — all in a single interactive Streamlit app.
-- **Racist Tweet Classifier** — NLP pipeline with SymSpell correction, oversampling, stratified cross-validation & Streamlit UI  
-- **Car Price Prediction** — Regression modeling using XGBoost and feature engineering on real marketplace data  
-- **RAG Toolkit** — Experimenting with OpenAI, BGE, and LlamaIndex to build smarter retrieval pipelines
-- **Image Classifier** - An End-to-End Image Classifier for 101 foodvision images capable of predicting the image label among the 101 foodvison image labels, e.g. sushi, pizza, etc. and a dog vision project in similar fashion using the 120 Stanford Dog breeds Image dataset
-
-## 📫 How to reach me:
-📩 [LinkedIn](https://www.linkedin.com/in/emmanuel-daniel-chonza-b2a0b620/) • ✉️ chonzadaniel@yahoo.com • 🌐 [GitHub Projects](https://github.com/chonzadaniel?tab=repositories)
+I build end-to-end AI systems that make real-world impact—ranging from **LLM fine-tuning** and **image classification apps**, to **retrieval-augmented generation (RAG)** pipelines and **AI-assisted job search agents**. My work integrates **machine learning**, **deep learning**, and **natural language processing (NLP)** with cutting-edge tooling like **OpenAI**, **HuggingFace**, **Streamlit**, **CrewAI**, and **ChromaDB**.
 
 ---
 
-> 💬 Ask me about NLP, Computer Vision, Machine Learning, Transformers, GenAI, fine-tuning LLMs, and practical AI deployment!
+## 🧠 What I Do
 
+- ⚙️ **Train and fine-tune LLMs** for domain-specific tasks (e.g., sentiment analysis, resumes, instructions)
+- 🤖 **Develop computer vision applications** using ResNet, VGG, and EfficientNet
+- 🔍 **Build advanced RAG pipelines** using ChromaDB, FAISS, and OpenAI APIs
+- 🧪 **Experiment with PEFT techniques** (LoRA, QLoRA, IA3, DPO) on real-world datasets
+- 📊 **Design data science workflows**: MLflow tracking, feature engineering, and model evaluation
+- 🌐 **Deploy AI apps** with Streamlit, FastAPI, Slack bots, and RESTful APIs
 
+---
 
+## 🔭 Current Work
+
+- 🔬 **Fine-tuning & evaluating LLMs** on domain-specific sentiment and intent classification
+- 🧱 **Implementing MLOps/LLMOps pipelines** for scalable experimentation
+- 📈 **Improving fairness** in ML models trained on imbalanced datasets
+- 🧠 **Prompt engineering** for grounded and hallucination-free AI output
+- 🎯 **Deploying AI apps** with powerful frontends using Streamlit + LangChain + LlamaIndex
+
+---
+
+## 🧩 Featured Projects
+
+### 🧠 [**Multimodal RAG App (📚 + 🌐)**](https://github.com/chonzadaniel)  
+> Streamlit-powered GenAI App to retrieve and summarize research papers (PDFs) using a **multi-vector retriever**, **ChromaDB**, **GPT-4o**, and **web-augmented generation**.  
+`PDF Ingestion → Chunking → Embedding → Retrieval → Generation → UI`
+
+---
+
+### 🐶 [**Stanford Dog Breed Classifier (ResNet50 TL)**](https://github.com/chonzadaniel)  
+> Fine-tuned ResNet50 model (transfer learning) trained on **120 Stanford Dog Breeds** with >80% validation accuracy. App UI built using **Streamlit** that predicts breed from uploaded `.jpeg/.png` image.
+
+---
+
+### 💼 [**Resume & Job Application Advisor**]  
+> Agentic Streamlit App powered by **CrewAI** + **Open-source LLMs**. Guides users in:
+- Resume feedback
+- Tailored job openings
+- Cover letter generation
+- Interview Q&A
+
+---
+
+### 💳 [**Credit Card Fraud Detector**]  
+> Robust ML pipeline for **highly imbalanced datasets**, including:
+- Stratified train/test splitting
+- Oversampling (SMOTE)
+- GridSearch + XGBoost
+- ROC-AUC, confusion matrix
+
+---
+
+### 🐦 [**Racist Tweet Classifier**]  
+> NLP workflow with:
+- SymSpell spell correction
+- Stratified cross-validation
+- Oversampling
+- Streamlit UI for public demo
+
+---
+
+### 🚗 [**Used Car Price Prediction**]  
+> Regression pipeline using **XGBoost**, **feature engineering**, and **marketplace data** (brand, model, mileage, engine size, etc.)
+
+---
+
+### 🧪 [**Parameter Efficient Fine-Tuning (PEFT)**]  
+> Experiments with LoRA, QLoRA, IA3, and DPO on binary sentiment tasks using HuggingFace Transformers + bitsandbytes
+
+---
+
+### 🖼️ [**FoodVision & DogVision**]  
+> Custom CNN and pretrained ResNet models trained on:
+- 🍣 **Food101** (sushi, pizza, steak...)
+- 🐕 **Stanford Dog Breeds** (with label mapping & confidence overlay)
+
+---
+
+## 📦 Coming Soon
+
+- 💬 **Multi-turn chatbot** with memory + web search + RAG
+- 🧑‍💼 **Job Application Assistant v2** (LangGraph-powered)
+- 🛰️ **LLM inference microservices** (FastAPI + LangServe)
+- 🧬 **BGE-Large + Llama3 RAG** for scientific documents
+- 🎛️ **Dynamic dashboards** for Monitoring & Evaluation (M&E)
+
+---
+
+## 📫 Reach Me
+
+- 🌐 [GitHub Projects](https://github.com/chonzadaniel?tab=repositories)
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/emmanuel-daniel-chonza-b2a0b620/)
+- 📧 Email: **chonzadaniel@yahoo.com**
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** `Python`, `R`, `SQL`, `Markdown`  
+**Frameworks & Tools:** `PyTorch`, `scikit-learn`, `Transformers`, `Streamlit`, `MLflow`, `FastAPI`, `LangChain`, `LlamaIndex`, `ChromaDB`, `OpenAI`, `HuggingFace`, `Plotly`, `Matplotlib`, `seaborn`  
+**MLOps:** `MLflow`, `wandb`, `Docker`, `Conda`, `Git`, `Jupyter`  
+**Deployment:** `Streamlit Cloud`, `Slack`, `Local API`, `Render`
+
+---
+
+## ✨ Motto
+
+> “Build. Evaluate. Iterate. Deploy. Share.”
+
+Let’s collaborate on AI that matters. Feel free to explore my work or reach out!
