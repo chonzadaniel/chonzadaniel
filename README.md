@@ -8,12 +8,14 @@ I build end-to-end AI systems that make real-world impact—ranging from **LLM f
 
 ## 🧠 What I Do
 
-- ⚙️ **Train and fine-tune LLMs** for domain-specific tasks (e.g., sentiment analysis, resumes, instructions)
-- 🤖 **Develop computer vision applications** using ResNet, VGG, and EfficientNet
-- 🔍 **Build advanced RAG pipelines** using ChromaDB, FAISS, and OpenAI APIs
-- 🧪 **Experiment with PEFT techniques** (LoRA, QLoRA, IA3, DPO) on real-world datasets
-- 📊 **Design data science workflows**: MLflow tracking, feature engineering, and model evaluation
-- 🌐 **Deploy AI apps** with Streamlit, FastAPI, Slack bots, and RESTful APIs
+- ⚙️ **Train and fine-tune LLMs** for domain-specific tasks (e.g., sentiment analysis, resumes, instructions).
+- 🤖 **Develop computer vision applications** using ResNet, VGG, and EfficientNet.
+- 💻 **Train and Deploy Supervised Machine Learning** Build regression and predictive Machine learning models.
+- 🔍 **Build advanced RAG pipelines** using ChromaDB, FAISS, and OpenAI APIs.
+- 🧪 **Experiment with PEFT techniques** (LoRA, QLoRA, IA3, DPO) on real-world datasets.
+- 📊 **Design data science workflows**: MLflow tracking, feature engineering, and model evaluation.
+- 🌐 **Deploy AI apps** with Streamlit, FastAPI, Slack bots, and RESTful APIs.
+- ䷢ **Design and Build M&E Systems** driven by results-based management approach, craft Theory of Change, Results Frameworks, M&E Plans, Analyze data, Visualize, build Dynamic Dashboards.
 
 ---
 
@@ -109,9 +111,9 @@ I build end-to-end AI systems that make real-world impact—ranging from **LLM f
 
 **Frameworks & Tools:** `PyTorch`, `scikit-learn`, `Transformers`, `Streamlit`, `MLflow`, `FastAPI`, `LangChain`, `LlamaIndex`, `ChromaDB`, `OpenAI`, `HuggingFace`, `Plotly`, `Matplotlib`, `seaborn` , `crewai`, `crewai-tools`, `APIs`
 
-**MLOps:** `MLflow`, `wandb`, `Docker`, `Conda`, `Git`, `Kaggle`
+**MLOps:** `MLflow`, `wandb`, `Docker`, `Conda`, `Git`, `Kaggle`, `AWS`
 
-**Deployment:** `Huggingface Spaces`, `Streamlit Cloud`, `Slack`, `Local API`, `Render`
+**Deployment:** `Huggingface Spaces`, `Streamlit Cloud`, `Slack`, `Local API`, `Render`, `AWS`
 
 **IDEs and Editors:** `Jupyter`, `Google Colab`, `PyCharm`, `Visual Studio Code`, `Kaggle`, `Sublime Text`, `Thonny`
 
